@@ -1,0 +1,20 @@
+
+/*
+button.btn.btn-sucess {
+    color: white;
+    background: #17a2b8;
+}
+
+button.pull-right {
+    float: right;
+}
+
+a.btn {
+    color: #212529;
+    text-decoration: none;
+    background-color: #dddddd;
+}
+a.btn.delete {
+    color: white !important;
+    background: #e83e8c !important;
+} */
